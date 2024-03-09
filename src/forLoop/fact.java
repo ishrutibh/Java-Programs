@@ -37,3 +37,4 @@ public class fact {
 	        scanner.close();
 	    }
 	}
+

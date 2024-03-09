@@ -16,3 +16,5 @@ int num=scanner.nextInt();
 	}
 
 }
+
+//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
